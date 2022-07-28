@@ -585,4 +585,13 @@ th {
     .main--content {
         padding: 0px 10px;
     }
+    .logo {
+        padding-left: 10px;
+    }
+    .search--notification--profile {
+        padding: 0 10px;
+    }
+    .sidebar {
+        padding: 10px;
+    }
 }
